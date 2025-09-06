@@ -1,0 +1,152 @@
+What Is Data Science?
+Data science is a discipline that combines math, statistics, artificial intelligence and computer science to process large volumes of data and determine patterns and trends. With these insights, organizations can better understand why certain events happen and develop more informed decision-making processes.
+
+Data science is the realm of data scientists, who often rely on artificial intelligence, especially its subfields of machine learning and deep learning, to create models and make predictions using algorithms and other techniques.
+
+ 
+
+Why Is Data Science Important?
+Data science makes it possible to analyze large amounts of data and spot trends through formats like data visualizations and predictive models. Given the ability to take proactive measures, businesses can then make smarter decisions, design more efficient operations, improve their cybersecurity practices and provide better customer experiences as a result. Teams are already applying data science across a range of scenarios like diagnosing diseases, detecting malware and optimizing transportation routes.
+
+ 
+
+What Is Data Science Used For?
+Data science is used to look for connections and patterns within complex information, leading to insights that businesses can then use to make better decisions. More specifically, data science is used for complex data analysis, predictive modeling, recommendation generation and data visualization.
+
+Analysis of Complex Data
+Data science allows for quick and precise analysis. With various software tools and techniques at their disposal, data analysts can easily identify trends and detect patterns within even the largest and most complex datasets. This enables businesses to make better decisions, whether it’s regarding how to best segment customers or conducting a thorough market analysis.
+
+Predictive Modeling
+Data science can also be used for predictive modeling. In essence, by finding patterns in data through the use of machine learning, analysts can forecast possible future outcomes with some degree of accuracy. These models are especially useful in industries like insurance, marketing, healthcare and finance, where anticipating the likelihood of certain events happening is central to the success of the business.
+
+Recommendation Generation
+Some companies — like Netflix, Amazon and Spotify — rely on data science and big data to generate recommendations for their users based on their past behavior. It’s thanks to data science that users of these and similar platforms can be served up content that’s tailored to their preferences and interests.
+
+Data Visualization
+Data science is also used to create data visualizations — think graphs, charts, dashboards — and reporting, which helps non-technical business leaders and busy executives easily understand otherwise complex information about the state of their business.
+
+ 
+
+What Are the Benefits of Data Science?
+Industries are realizing the advantages of employing data science, including these common benefits. 
+
+Improved Decision Making
+Being able to analyze and glean insights from massive amounts of data gives leaders an accurate understanding of past developments and concrete evidence for justifying their decisions moving forward. Companies can then make sound, data-driven decisions that are also more transparent to employees and other stakeholders.  
+
+Increased Efficiency
+By gathering historical data, businesses can pinpoint workflow inefficiencies and devise solutions to speed up production. They can also test different ideas and compile data to see what’s working and what’s not. With a data-first approach, companies can then design processes that maximize productivity and minimize unnecessary work and costs.  
+
+Complex Data Interpretation
+Data science allows for the handling of large volumes of complex data, which businesses can then use to build predictive models for anything from anticipating customer behavior to forecasting market trends. If other organizations can’t extract insights from complicated data, companies that do have the clear advantage of being the first ones to foresee upcoming events and prepare accordingly.    
+
+Better Customer Experience
+Collecting data on customer behavior allows companies to determine customer buying habits and product preferences. Teams can then leverage this data to design personalized customer experiences. For example, businesses can create marketing campaigns tailored toward certain demographics, offer product recommendations based on a customer’s past purchases and tweak products according to customer uses and feedback.  
+
+Strengthened Cybersecurity
+Data science tools give teams the capacity to monitor large volumes of data, which makes it easier to spot anomalies. For example, financial institutions can review transactional data to determine suspicious activity and fraud. Security teams can also gather data from network systems to detect unusual behavior and catch cyber attacks in their early stages.
+
+ 
+
+What Is the Data Science Process?
+Data science is typically thought of as a five-step process, or lifecycle:
+
+1. Capture
+This stage is when data scientists gather raw and unstructured data. The capture stage typically includes data acquisition, data entry, signal reception and data extraction.
+
+2. Maintain
+This stage is when data is put into a form that can be utilized. The maintenance stage includes data warehousing, data cleansing, data staging, data processing and data architecture.
+
+3. Process
+This stage is when data is examined for patterns and biases to see how it will work as a predictive analysis tool. The process stage includes data mining, clustering and classification, data modeling and data summarization.
+
+4. Analyze
+This stage is when multiple types of analyses are performed on the data. The analysis stage involves data reporting, data visualization, business intelligence and decision making.
+
+5. Communicate
+This stage is when data scientists and analysts showcase the data through reports, charts and graphs. The communication stage typically includes exploratory and confirmatory analysis, predictive analysis, regression, text mining and qualitative analysis.
+
+ 
+
+What Are Data Science Techniques?
+There are lots of data science techniques with which data science professionals must be familiar in order to do their jobs. These are some of the most popular techniques:
+
+Regression
+Regression analysis allows you to predict an outcome based on multiple variables and how those variables affect each other. Linear regression is the most commonly used regression analysis technique. Regression is a type of supervised learning.
+
+Classification
+Classification in data science refers to the process of predicting the category or label of different data points. Like regression, classification is a subcategory of supervised learning. It’s used for applications such as email spam filters and sentiment analysis.
+
+Clustering
+Clustering, or cluster analysis, is a data science technique used in unsupervised learning. During cluster analysis, closely associated objects within a data set are grouped together, and then each group is assigned characteristics. Clustering is done to reveal patterns within data — typically with large, unstructured data sets.
+
+Anomaly Detection
+Anomaly detection, sometimes called outlier detection, is a data science technique in which data points with relatively extreme values are identified. Anomaly detection is used in industries like finance and cybersecurity.
+
+ 
+
+What Does a Data Scientist Do?
+Data scientists specialize in collecting, organizing and analyzing data so that the data can be conveyed as a clear story with actionable takeaways. Data scientists are skilled in detecting patterns hidden within large volumes of data, and they often use advanced algorithms and implement machine learning models to help organizations make accurate assessments and predictions. The typical data scientist has deep knowledge of math and statistics, as well as experience using programming languages.
+
+Within the field of data science, jobs can come in different forms, beyond the role of data scientist. Data analysts, for instance, are responsible for looking for actionable information within data sets, interpreting that data and then creating reports, dashboards and visualizations to communicate those insights to others within the organization and possibly to customers as well.
+
+Another role, that of the data engineer, focuses on designing, creating and managing systems that data scientists use to access and analyze data. Typically, the job of the data engineer involves building data models and data pipelines, as well as supervising extract, transform and load (ETL).
+
+Each role within data science uses both technical and soft skills that will need to be developed throughout a person’s career.
+
+ 
+
+What Are Data Science Tools?
+Data science professionals typically require knowledge of data science tools and programming languages.
+
+Common data science programming languages include:
+
+Python: Python is an object-oriented, general-purpose programming language known for having simple syntax and being easy to use. It’s often used for executing data analysis, building websites and software and automating various tasks.  
+R: R is a programming language that caters to statistical computing and graphics. It’s ideal for creating data visualizations and building statistical software.
+Popular data science tools include:
+
+Apache Spark: Apache Spark is an open-source processing engine that works well with popular languages like R and Python. It’s used for handling big data workloads, so teams can quickly complete analyses and queries on data sets of any size. 
+SQL: SQL is a domain-specific language that specializes in storing and managing data in relational databases. It’s used to communicate with relational databases, making it possible to retrieve data, update data and perform other tasks. 
+Tableau: Tableau is a platform that generates data visualizations and business insights to facilitate information analysis and sharing. It’s used to share data in understandable formats, so teams can make faster, data-driven decisions.  
+Jupyter Notebook: Jupyter Notebook is a web application that enables users to share documents containing data visualizations, live code and other interactive elements. It’s best used for encouraging collaboration on running documents. 
+Apache Hadoop: Apache Hadoop is an open-source framework that aids in processing and storing large data sets. It’s popular for efficiently managing big data, so teams can use data to assess financial risk, predict customer demand and quickly locate health data, among other use cases.  
+TensorFlow: TensorFlow is an open-source library of tools and resources for building machine learning applications. It’s used for training models, monitoring performance and completing other tasks that natural language processing, image recognition and other types of machine learning models depend on.  
+PyTorch: PyTorch is an open-source machine learning framework for developing deep learning models. It’s ideal for building neural networks to power applications in areas like computer vision, image recognition and natural language processing.
+Choosing a data science tool depends on a number of variables, including the problem being solved, the needs of the business and the skill level of the data scientists involved.
+
+ 
+
+What Are Data Science Skills?
+While there are some skills and techniques that data scientists will need to learn if they wish to enter into more specialized fields within data science — such as deep learning, neural networks and natural language processing — there are some general proficiencies and a few key soft skills that will set up aspiring and early-career data science professionals for success:
+
+Programming: Using languages like Python and R.
+Database Management: Learning and applying SQL to communicate with databases.
+Statistics: Having a handle on how to analyze data to solve problems.
+Curiosity: Focused on figuring problems out and always learning new things.
+Storytelling: The ability to tell stories with data and relay insights.
+Communication: Comfortable collaborating with others and communicating problems and solutions clearly. 
+With well-rounded skill sets, data scientists can master the most popular data science tools and apply their expertise to a variety of circumstances and industries.
+
+ 
+
+Data Science Use Cases
+Data science helps us achieve many tasks that either were not possible or required a great deal more time and energy just a few years ago, such as detecting fraud, forecasting revenue, optimizing ride-share pickups, powering recommendation engines and filtering out spam email.
+
+Here are a few more applications of data science:
+
+Healthcare
+Data science has led to a number of breakthroughs in the healthcare industry. With a vast network of data now available via everything from EMRs to clinical databases to personal fitness trackers, medical professionals are finding new ways to understand disease, practice preventive medicine, diagnose diseases faster and explore new treatment options. The sensitivity of patient data makes data security an even bigger point of emphasis in the healthcare space.
+
+Finance
+Machine learning and data science have saved the financial industry millions of dollars, and unquantifiable amounts of time. For example, JP Morgan’s contract intelligence platform uses natural language processing to process and extract vital data from thousands of commercial credit agreements a year. Thanks to data science, what would take around hundreds of thousands manual labor hours to complete is now finished in a few hours.
+
+Cybersecurity
+Data science is useful in every industry, but it may be the most important in cybersecurity. For example, international cybersecurity firm Kaspersky uses science and machine learning to detect hundreds of thousands of new samples of malware on a daily basis. Being able to instantaneously detect and learn new methods of cybercrime through data science is essential to our safety and security in the future.
+
+Logistics
+UPS turns to data science to maximize efficiency, both internally and along its delivery routes. The company’s On-road Integrated Optimization and Navigation (ORION) tool uses data science-backed statistical modeling and algorithms that create optimal routes for delivery drivers based on weather, traffic and construction. It’s estimated that data science is saving the logistics company millions of gallons of fuel and delivery miles each year.
+
+Entertainment
+Do you ever wonder how Spotify seems to recommend that perfect song you’re in the mood for? Or how Netflix knows just what shows you’ll love to binge? Using data science, these media streaming giants learn your preferences to carefully curate content from their vast libraries they think would accurately appeal to your interests.
+
+Product, Sales and Marketing
+Many businesses rely on data scientists to build time series forecasting models that help with inventory management and supply chain optimization. Data scientists are also sometimes tasked with making proactive recommendations based on budget forecasts made through financial models. Some even use data mining to segment customers by behavior, tailoring future marketing messages to appeal to certain groups based on previous brand interactions.

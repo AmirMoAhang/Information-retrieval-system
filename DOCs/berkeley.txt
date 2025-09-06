@@ -1,0 +1,42 @@
+# What is Data Science?
+Data science continues to evolve as one of the most promising and in-demand career paths for skilled professionals. Today, successful data professionals understand they must advance past the traditional skills of analyzing large amounts of data, data mining, and programming skills. To uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process.
+
+The term “data scientist” was coined when companies first realized the need for data professionals skilled in organizing and analyzing massive amounts of data. Ten years after the widespread business adoption of the internet, Hal Varian, Google’s chief economist, first dean of the UC Berkeley School of Information (I School), and UC Berkeley emeritus professor of information sciences, business, and economics, predicted the importance of adapting to technology’s influence and reconfiguration of different industries.
+
+> `The ability to take data — to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it — that’s going to be a hugely important skill in the next decades.`
+
+Today, effective data scientists masterfully identify relevant questions, collect data from a multitude of different data sources, organize the information, translate results into solutions, and communicate their findings in a way that positively affects business decisions. These skills are now required in almost all industries, which means data scientists have become increasingly valuable to companies.
+
+## What Does a Data Scientist Do?
+Data scientists have become assets across the globe and are present in almost all organizations. These professionals are well-rounded, analytical individuals with high-level technical skills who can build complex quantitative algorithms to organize and synthesize large amounts of information used to answer questions and drive strategy in their organizations. They also have the communication and leadership experience to deliver tangible results to various stakeholders across an organization or business.
+
+Data scientists are typically curious and result-oriented, with exceptional industry-specific knowledge and communication skills that allow them to explain highly technical results to their non-technical counterparts. They possess a strong quantitative background in statistics and linear algebra as well as programming knowledge with focuses in data warehousing, mining, and modeling to build and analyze algorithms.
+
+## Why Become a Data Scientist?
+As increasing amounts of data become more accessible, large tech companies are no longer the only ones in need of data scientists. There’s now a demand for qualified data science professionals across organizations, big and small.
+
+With the power to shape decisions, solve real-world challenges, and make a meaningful impact in diverse sectors, data science professionals have the opportunity to pursue various career paths.
+
+## Where Do You Fit in Data Science?
+Data is everywhere and expansive. Various terms related to mining, cleaning, analyzing, and interpreting data are often used interchangeably, but the roles typically involve different skill sets. The complexity of the data analyzed also differs.
+
+### Data Scientist
+Data scientists examine which questions need answering and where to find the related data. They have business acumen and analytical skills as well as the ability to mine, clean, and present data. Businesses use data scientists to source, manage, and analyze large amounts of unstructured data. Data scientists also leverage machine learning techniques to model information and interpret results effectively, a skill that differentiates them from data analysts. Results are then synthesized and communicated to key stakeholders to drive strategic decision making in the organization.
+
+**Skills needed:** Programming skills (SAS, R, Python), statistical and mathematical skills, storytelling and data visualization, Hadoop, SQL, machine learning
+
+### Data Analyst
+Data analysts bridge the gap between data scientists and business analysts. They’re provided with the questions that need answering from an organization and then organize and analyze data to find results that align with high-level business strategy. Data analysts are responsible for translating technical analysis to qualitative action items and effectively communicating their findings to diverse stakeholders.
+
+**Skills needed:** Programming skills (SAS, R, Python), statistical and mathematical skills, data wrangling, data visualization
+
+### Data Engineer
+Data engineers manage exponentially growing and rapidly changing data. They focus on developing, deploying, managing, and optimizing data pipelines and infrastructure to transform and transfer data to data scientists and data analysts for querying.
+
+**Skills needed:** Programming languages (Java, Scala), NoSQL databases (MongoDB, Cassandra DB), frameworks (Apache Hadoop)
+
+## Data Science Career Outlook and Salary Opportunities
+Data science professionals are rewarded for their highly technical skill set with competitive salaries and great job opportunities at big and small companies in most industries. Data science professionals with the appropriate experience and education have the opportunity to make their mark in some of the most forward-thinking companies in the world.
+
+Gaining specialized skills within the data science field can distinguish data scientists even further. For example, machine learning experts use high-level programming skills to create algorithms that continuously gather data and adjust their learning to improve prediction performance.
+

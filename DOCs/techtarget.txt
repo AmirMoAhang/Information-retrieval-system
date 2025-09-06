@@ -1,0 +1,57 @@
+# What is data science? The ultimate guide
+Data science is the field of applying advanced analytics techniques and scientific principles to extract valuable information from data for business decision-making, strategic planning and other uses. It's increasingly critical to businesses: The insights that data science generates help organizations increase operational efficiency, identify new business opportunities and improve marketing and sales programs, among other benefits. Ultimately, they can lead to competitive advantages over business rivals.
+
+Data science incorporates various disciplines -- for example, data engineering, data preparation, data mining, predictive analytics, machine learning and data visualization, as well as statistics, mathematics and software programming. It's primarily done by skilled data scientists, although lower-level data analysts may also be involved. In addition, many organizations now rely partly on citizen data scientists, a group that can include business intelligence (BI) professionals, business analysts, data-savvy business users, data engineers and other workers who don't have a formal data science background.
+
+This comprehensive guide to data science further explains what it is, why it's important to organizations, how it works, the business benefits it provides and the challenges it poses. You'll also find an overview of data science applications, tools and techniques, plus information on what data scientists do and the skills they need. Throughout the guide, there are hyperlinks to related TechTarget articles that delve more deeply into the topics covered here and offer insight and expert advice on data science initiatives.
+
+Why is data science important?
+Data science plays an important role in virtually all aspects of business operations and strategies. For example, it provides information about customers that helps companies create stronger marketing campaigns and targeted advertising to increase product sales. It aids in managing financial risks, detecting fraudulent transactions and preventing equipment breakdowns in manufacturing plants and other industrial settings. It helps block cyber attacks and other security threats in IT systems.
+
+From an operational standpoint, data science initiatives can optimize management of supply chains, product inventories, distribution networks and customer service. On a more fundamental level, they point the way to increased efficiency and reduced costs. Data science also enables companies to create business plans and strategies that are based on informed analysis of customer behavior, market trends and competition. Without it, businesses may miss opportunities and make flawed decisions.
+
+Data science is also vital in areas beyond regular business operations. In healthcare, its uses include diagnosis of medical conditions, image analysis, treatment planning and medical research. Academic institutions use data science to monitor student performance and improve their marketing to prospective students. Sports teams analyze player performance and plan game strategies via data science. Government agencies and public policy organizations are also big users.
+
+Data science process and lifecycle
+Data science projects involve a series of data collection and analysis steps. In an article that describes the data science process, Donald Farmer, principal of analytics consultancy TreeHive Strategy, outlined these six primary steps:
+
+Identify a business-related hypothesis to test.
+Gather data and prepare it for analysis.
+Experiment with different analytical models.
+Pick the best model and run it against the data.
+Present the results to business executives.
+Deploy the model for ongoing use with fresh data.
+Farmer said the process does make data science a scientific endeavor. However, he wrote that in corporate enterprises, data science work "will always be most usefully focused on straightforward commercial realities" that can benefit the business. As a result, he added, data scientists should collaborate with business stakeholders on projects throughout the analytics lifecycle.
+
+Benefits of data science
+In an October 2020 webinar organized by Harvard University's Institute for Applied Computational Science, Jessica Stauth, managing director for data science in the Fidelity Labs unit at Fidelity Investments, said there's "a very clear relationship" between data science work and business results. She cited potential business benefits that include higher ROI, sales growth, more efficient operations, faster time to market and increased customer engagement and satisfaction.
+
+Generally speaking, one of data science's biggest benefits is to empower and facilitate better decision-making. Organizations that invest in it can factor quantifiable, data-based evidence into their business decisions. Ideally, such data-driven decisions will lead to stronger business performance, cost savings and smoother business processes and workflows.
+
+The specific business benefits of data science vary depending on the company and industry. In customer-facing organizations, for example, data science helps identify and refine target audiences. Marketing and sales departments can mine customer data to improve conversion rates and create personalized marketing campaigns and promotional offers that produce higher sales.
+
+In other cases, the benefits include reduced fraud, more effective risk management, more profitable financial trading, increased manufacturing uptime, better supply chain performance, stronger cybersecurity protections and improved patient outcomes. Data science also enables real-time analysis of data as it's generated -- read about the benefits that real-time analytics provides, including faster decision-making and increased business agility, in another article by Farmer.
+
+Data science applications and use cases
+Common applications that data scientists engage in include predictive modeling, pattern recognition, anomaly detection, classification, categorization and sentiment analysis, as well as development of technologies such as recommendation engines, personalization systems and artificial intelligence (AI) tools like chatbots and autonomous vehicles and machines.
+
+Those applications drive a wide variety of use cases in organizations, including the following:
+
+customer analytics
+fraud detection
+risk management
+stock trading
+targeted advertising
+website personalization
+customer service
+predictive maintenance
+logistics and supply chain management
+image recognition
+speech recognition
+natural language processing
+cybersecurity
+medical diagnosis
+Learn more about eight top data science applications and associated use cases in an article by Ronald Schmelzer, principal analyst and managing partner at Cognilytica, a research and advisory firm that focuses on AI.
+
+Challenges in data science
+Data science is inherently challenging because of the advanced nature of the analytics it involves. The vast amounts of data typically being analyzed add to the complexity and increase the time it takes to complete projects. In addition, data scientists frequently work with pools of big data that may contain a variety of structured, unstructured and semistructured data, further complicating the analytics process.
